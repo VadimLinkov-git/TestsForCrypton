@@ -40,6 +40,7 @@ vector<int> MakeSum(vector<int> a, vector<int> b) {
 		res.insert(res.begin(), temp % 10);
 		temp = temp / 10;
 	}
+	if (temp == 1) res.insert(res.begin(), temp);
 	
 	return res;
 }

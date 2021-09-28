@@ -1,3 +1,3 @@
 ﻿  scrypt.cpp
-G:\vadimos\Projects\REPOS\TaskForCrypton\TestsForCrypton\Task1\Task1\scrypt.cpp(60,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\vadimos\Projects\REPOS\TaskForCrypton\TestsForCrypton\Task1\Task1\scrypt.cpp(61,20): warning C4018: <: несоответствие типов со знаком и без знака
   Task1.vcxproj -> G:\vadimos\Projects\REPOS\TaskForCrypton\TestsForCrypton\Task1\Debug\Task1.exe
