@@ -1,0 +1,5 @@
+﻿  parser.cpp
+G:\vadimos\Projects\REPOS\TaskForCrypton\TestsForCrypton\Task2\Task2\parser.cpp(45,20): warning C4018: <: несоответствие типов со знаком и без знака
+G:\vadimos\Projects\REPOS\TaskForCrypton\TestsForCrypton\Task2\Task2\parser.cpp(47,23): warning C4018: <: несоответствие типов со знаком и без знака
+G:\vadimos\Projects\REPOS\TaskForCrypton\TestsForCrypton\Task2\Task2\parser.cpp(75,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Task2.vcxproj -> G:\vadimos\Projects\REPOS\TaskForCrypton\TestsForCrypton\Task2\Debug\Task2.exe
